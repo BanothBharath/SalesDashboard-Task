@@ -53,7 +53,7 @@ SalesDashboard/
 
 ![Dashboard View](Screenshot%202025-04-18%20175336.png)
 
-📈 Key Insights
+## 📈 Key Insights
 
 Sales Trend
 Sales showed a consistent upward trend during the second half of the year, with December recording the highest sales.
@@ -69,7 +69,7 @@ Furniture contributed approximately 20% of total revenue, making it a comparativ
 Profitability
 The East region achieved the highest profit margins despite having moderate sales, indicating relatively efficient operations.
 
-🔍 Analysis Areas
+## 🔍 Analysis Areas
 
 The dashboard focuses on:
 - 📅 Sales trends over time
@@ -79,19 +79,19 @@ The dashboard focuses on:
 - 📈 Profitability
 - 🔎 Business performance comparison
 - 
-📁 Dataset
+## 📁 Dataset
 
 The project uses the Superstore Sales dataset included in this repository.
 Superstore_Sales.csv contains the data used to build the Power BI dashboard.
 
-▶️ How to Use
+## ▶️ How to Use
 
 1. Download or clone this repository.
 2. Open salesdashboard-task.pbix using Microsoft Power BI Desktop.
 3. If required, update the dataset path to Superstore_Sales.csv.
 4. Explore the interactive dashboard and visualizations.
    
-📌 Project Files
+## 📌 Project Files
 
 File	Description
 salesdashboard-task.pbix	Power BI dashboard project
@@ -102,6 +102,7 @@ regional_analysis.png	Regional performance visualization
 category_analysis.png	Category performance visualization
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 Banoth Bharath
+
 GitHub: BanothBharath
