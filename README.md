@@ -35,7 +35,23 @@ SalesDashboard/
 ├── regional_analysis.png
 └── category_analysis.png
 ```
-📊 Dashboard Preview
+## 📊 Dashboard Preview
+
+### Sales Dashboard
+
+![Sales Dashboard](Screenshot%202025-04-18%20175456.png)
+
+### Sales Analysis
+
+![Sales Analysis](Screenshot%202025-04-18%20175421.png)
+
+### Regional Analysis
+
+![Regional Analysis](Screenshot%202025-04-18%20175357.png)
+
+### Dashboard View
+
+![Dashboard View](Screenshot%202025-04-18%20175336.png)
 
 📈 Key Insights
 
